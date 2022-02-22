@@ -4,3 +4,5 @@ Milk
 Apple
 Suger
 Vanilla sirop
+Ice 
+Heavy milk
